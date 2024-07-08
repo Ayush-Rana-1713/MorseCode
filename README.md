@@ -1,5 +1,3 @@
-Here's a basic README file for your Morse code Java project:
-
 ---
 
 # Morsecode Converter
